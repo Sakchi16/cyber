@@ -10,6 +10,7 @@ Graphical User Interface (GUI): Built using Java Swing for easy interaction.
 Image Encryption and Decryption: Uses the XOR operation to encrypt/decrypt image data.
 User Input: Users can provide a custom key for encryption and decryption through a text field.
 File Selection: Allows users to select an image file from their filesystem for encryption/decryption.
+
 Technologies Used
 Java 8 or higher: The project is written in Java.
 Swing: For building the graphical user interface (GUI).
@@ -20,9 +21,11 @@ Follow these instructions to run the project locally.
 Prerequisites
 Java 8 or higher: Ensure that you have Java installed. You can download it from Oracle's website.
 IDE: Any IDE that supports Java (e.g., IntelliJ IDEA, Eclipse, or VS Code).
+
 Clone the Repository
 git clone https://github.com/your-username/cyber-security-image-encryption.git
 cd cyber-security-image-encryption
+
 Running the Program
 Open the project in your IDE.
 Compile and run the ImageOperation.java class.
