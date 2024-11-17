@@ -22,9 +22,7 @@ Prerequisites
 Java 8 or higher: Ensure that you have Java installed. You can download it from Oracle's website.
 IDE: Any IDE that supports Java (e.g., IntelliJ IDEA, Eclipse, or VS Code).
 
-Clone the Repository
-git clone https://github.com/your-username/cyber-security-image-encryption.git
-cd cyber-security-image-encryption
+
 
 Running the Program
 Open the project in your IDE.
